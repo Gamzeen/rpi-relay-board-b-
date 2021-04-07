@@ -1,3 +1,4 @@
+
 #RelayTest.py - This script is intended to test the relays and make sure they are working.
 #Aaron Ragusa - RagsFTW
 #1-19-2019
@@ -48,3 +49,4 @@ while i<3:
     sleep(1)
     relay8.off()
     i+=1
+    
